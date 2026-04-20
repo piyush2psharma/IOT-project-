@@ -1,0 +1,8 @@
+# Wokwi Libraries – Smart Door Control System
+
+- name: MFRC522
+  version: 1.4.10
+- name: ESP32Servo
+  version: 0.11.0
+- name: LiquidCrystal I2C
+  version: 1.1.2
