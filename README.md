@@ -40,13 +40,10 @@ All access events are logged to **ThingSpeak** (MathWorks) over WiFi in real tim
 ```
 .
 ├── sketch.ino                  # Main Arduino firmware (ESP32)
-├── populate_thingspeak.py      # Python script to populate ThingSpeak with demo data
 ├── diagram.json                # Wokwi circuit diagram
 ├── wokwi.toml                  # Wokwi simulation config
 ├── libraries.txt               # Required Arduino libraries list
 ├── components_explained.md     # Detailed component descriptions
-├── smart_door_report.tex       # Full project report (LaTeX, IEEE format)
-├── water_quality_report.tex    # Reference report (LaTeX)
 └── README.md                   # This file
 ```
 
@@ -118,18 +115,7 @@ This project is designed for the **[Wokwi](https://wokwi.com)** online simulator
 
 ---
 
-## 🐍 Populating ThingSpeak with Demo Data
 
-To fill your ThingSpeak channel with realistic demo data without running the simulation:
-
-```bash
-pip install requests
-python populate_thingspeak.py
-```
-
-This sends **55 pre-defined events** (authorised entries, denied attempts, motion alerts, and idle heartbeats) spaced 16 seconds apart.
-
----
 
 ## 📦 Required Arduino Libraries
 
@@ -141,17 +127,6 @@ See `libraries.txt` for the full list. Install via Arduino IDE Library Manager:
 - `MFRC522`
 - `WiFi` (built-in with ESP32 core)
 - `Wire` (built-in)
-
----
-
-## 📄 Report
-
-The full IEEE-format project report is available in `smart_door_report.tex`.  
-Compile with:
-```
-pdflatex smart_door_report.tex   # Run 3 times for TOC and references
-```
-Or upload directly to [Overleaf](https://www.overleaf.com).
 
 ---
 
