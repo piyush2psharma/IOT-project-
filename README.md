@@ -100,7 +100,7 @@ ThingSpeak Cloud
 | Field 3 | Motion Alert | 1 = Detected, 0 = Clear |
 | Field 4 | Total Attempts | Running count of card scans |
 
-> **API Key:** Configured in `sketch.ino` and `populate_thingspeak.py`
+> **API Key:** Configured in `sketch.ino` 
 
 ---
 
