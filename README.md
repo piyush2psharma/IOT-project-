@@ -3,7 +3,7 @@
 **Course:** CS-744 — Internet of Things  
 **Programme:** Dual Degree (B.Tech + M.Tech)  
 **Institute:** National Institute of Technology Hamirpur  
-**Author:** Piyush (22DCS014)  
+**Author:** Piyush   
 **Guide:** Dr. Robin Singh Bhadoria, Assistant Professor, Dept. of CSE  
 **Year:** 2026
 
@@ -155,7 +155,7 @@ All **12 functional test cases** passed on the Wokwi simulation platform:
 
 ## 📬 Contact
 
-**Piyush** — 22DCS014  
+**Piyush** 
 Department of Computer Science and Engineering  
 National Institute of Technology Hamirpur  
 Hamirpur (H.P.) — 177005, India
