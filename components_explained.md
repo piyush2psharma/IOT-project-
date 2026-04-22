@@ -153,23 +153,4 @@ when, and how many attempts were made — from your phone or laptop.
 
 ---
 
-## Why This is a B.Tech / M.Tech Level Project
 
-Every component has a **distinct, real-world purpose** — no component
-is redundant. The combination of:
-
-- **Hardware Authentication** (RFID)
-- **Physical Actuation** (Servo Motor)
-- **Environmental Sensing** (PIR)
-- **Multi-modal Feedback** (LCD + LEDs + Buzzer)
-- **Cloud IoT Integration** (ThingSpeak)
-- **WiFi-enabled Microcontroller** (ESP32)
-
-...makes this a **complete, end-to-end IoT Security System** that
-demonstrates skills in embedded systems, sensor interfacing, networking,
-and cloud data visualization — all core competencies of a B.Tech / M.Tech
-graduate in Electronics / Computer Engineering.
-
----
-
-*Smart IoT Lab — 2026*
